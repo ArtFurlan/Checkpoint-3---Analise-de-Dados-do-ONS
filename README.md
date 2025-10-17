@@ -1,8 +1,8 @@
 # Checkpoint 3 - Analise de Dados do ONS
 
 ---
-## Ddownload do arquivo .ipynb com os códigos:
-[Baixar CAPACIDADE_GERACAO.csv](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/data/CAPACIDADE_GERACAO.csv)
+## Link do google colab com os códigos:
+https://colab.research.google.com/drive/1-4YNjoJo_rBZeZJ1YeuOEtfVTT9zzKMX?usp=sharing
 
 ---
 ### Integrantes
@@ -63,14 +63,14 @@ filename = list(uploaded.keys())[0]
 
 ---
 
-## 🧩 **Conclusões (para o final do notebook)**
+## **Conclusões (para o final do notebook)**
 
 ```markdown```
-# 🧩 Conclusões da Análise
+# Conclusões da Análise
 
 ---
 
-## 📈 Síntese dos Resultados
+## Síntese dos Resultados
 
 1. **Diversificação da Matriz Energética**
    - O Brasil possui uma matriz energética altamente diversificada.
@@ -97,7 +97,7 @@ filename = list(uploaded.keys())[0]
 
 ---
 
-## 🌿 Conclusão Geral
+## Conclusão Geral
 O estudo evidencia que a **transição energética brasileira** está em pleno curso, com destaque para o avanço das fontes **solar e eólica**.  
 As análises e modelos aplicados demonstram o potencial do **machine learning** como ferramenta para:
 - **Prever tendências de expansão** da matriz elétrica;  
@@ -108,7 +108,7 @@ Esses resultados reforçam o papel central das **energias limpas e sustentáveis
 
 ---
 
-## 📚 Referências
+## Referências
 - Operador Nacional do Sistema Elétrico (ONS) — Portal de Dados Abertos  
 - Agência Nacional de Energia Elétrica (ANEEL)  
 - Python Software Foundation — Documentação Oficial  
